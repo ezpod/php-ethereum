@@ -1,6 +1,8 @@
 # php-ethereum
 用PHP语言（5.4以上版本）编写的以太坊客户端SDK
 
+要快速掌握php以太坊开发，推荐这个教程：[php以太坊开发详解](http://xc.hubwiz.com/course/5b36629bc02e6b6a59171de3?affid=github7878)
+
 ## 开发流程：
 1、安装go环境（请参考官方对安装go的各环境教程）
 
